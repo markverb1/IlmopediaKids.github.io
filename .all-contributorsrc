@@ -1,0 +1,36 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ZI-Youtuber",
+      "name": "Zoraez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82158378?v=4",
+      "profile": "https://sites.google.com/view/ilmopedia-kids/home",
+      "contributions": [
+        "bug",
+        "code",
+        "content",
+        "design",
+        "ideas",
+        "maintenance",
+        "question",
+        "tutorial",
+        "test",
+        "review",
+        "infra",
+        "example",
+        "mentoring"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "IlmopediaKids.github.io",
+  "projectOwner": "IlmopediaKids",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
