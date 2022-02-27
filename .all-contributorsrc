@@ -24,6 +24,17 @@
         "example",
         "mentoring"
       ]
+    },
+    {
+      "login": "markverb1",
+      "name": "markverb1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77983517?v=4",
+      "profile": "https://github.com/markverb1",
+      "contributions": [
+        "ideas",
+        "design",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
